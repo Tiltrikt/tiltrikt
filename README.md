@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Vladyslav Oleniuk
 
-<!--
-**Tiltrikt/tiltrikt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My sklls:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,mysql,postgres,h2,sqlite" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Tools, I use:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,docker,postman" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me:
+
+Email: vladoos339@gmail.com<br/>
