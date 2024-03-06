@@ -1,4 +1,4 @@
-### Hi there, I'm Vladyslav Oleniuk
+### Hi there, I'm Vladyslav
 
 ### My sklls:
 <p align="left">
